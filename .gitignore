@@ -1,0 +1,11 @@
+# Ignore Eclipse IDE files
+.classpath
+.project
+# Ignore all .log files
+*.log
+
+# Ignore node_modules directory
+node_modules/
+
+# Ignore macOS system files
+.DS_Store
